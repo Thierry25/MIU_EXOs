@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1- LargestAdjacentSum/1- LargestAdjacentSum.iml" filepath="$PROJECT_DIR$/1- LargestAdjacentSum/1- LargestAdjacentSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10. IsDigitIncreasing/10. IsDigitIncreasing.iml" filepath="$PROJECT_DIR$/10. IsDigitIncreasing/10. IsDigitIncreasing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11. DecodeArrray/11. DecodeArrray.iml" filepath="$PROJECT_DIR$/11. DecodeArrray/11. DecodeArrray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2- CheckConcatenatedSum/2- CheckConcatenatedSum.iml" filepath="$PROJECT_DIR$/2- CheckConcatenatedSum/2- CheckConcatenatedSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3- M-N-Sequenced/3- M-N-Sequenced.iml" filepath="$PROJECT_DIR$/3- M-N-Sequenced/3- M-N-Sequenced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4- LargestPrimeFactor/4- LargestPrimeFactor.iml" filepath="$PROJECT_DIR$/4- LargestPrimeFactor/4- LargestPrimeFactor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5- EncodeNumber/5- EncodeNumber.iml" filepath="$PROJECT_DIR$/5- EncodeNumber/5- EncodeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6- MatchPattern/6- MatchPattern.iml" filepath="$PROJECT_DIR$/6- MatchPattern/6- MatchPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7- CubePowerful/7- CubePowerful.iml" filepath="$PROJECT_DIR$/7- CubePowerful/7- CubePowerful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8. DecodeArray/8. DecodeArray.iml" filepath="$PROJECT_DIR$/8. DecodeArray/8. DecodeArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9. ZeroPlentiful/9. ZeroPlentiful.iml" filepath="$PROJECT_DIR$/9. ZeroPlentiful/9. ZeroPlentiful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MIU_FINAL.iml" filepath="$PROJECT_DIR$/.idea/MIU_FINAL.iml" />
+    </modules>
+  </component>
+</project>
